@@ -1,6 +1,6 @@
 # Some C code template
 ## Solve some c lang problems just for fun
-<img src="./c_logo.png" alt="" width="150px"/>
+<img src="./c_logo.svg" alt="" width="150px"/>
 
 ---
 ### how to run
